@@ -40,7 +40,7 @@ Just download the CSV and open it in Excel.
 
 ## License
 
-While it's publicly available for your use, I still retain the intellectual property rights. As such, you have permission to use this database for personal or commercial use. All I ask is that if you use the contents of this database, simply put the attribution "Copyright © Justin Mahar | The Superpower List" in a visible location where the information is shown, with an optional link back to this project on GitHub.
+While it's publicly available for your use, I still retain the intellectual property rights. As such, you have permission to use this database for personal, educational, or commercial use. All I ask is that if you use the contents of this database, simply put the attribution "Copyright © Justin Mahar | The Superpower List" in a visible location where the information is shown, with an optional link back to this project on GitHub.
 
 Enjoy!
 
